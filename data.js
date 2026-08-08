@@ -22,7 +22,7 @@ const ITEMS = [
     "title": "Philco, 103301040, Multiprocessador, Pmp1600v, 1400W, Vermelho, 127v,",
     "asin": "B07V68WPC9",
     "image": "https://m.media-amazon.com/images/I/416g1Olhd5L._SS135_.jpg",
-    "price": "R$ 339,90",
+    "price": "R$ 299,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07V68WPC9/?tag=guilhermefsp-20",
     "date_added": "2026-05-07"
@@ -85,7 +85,7 @@ const ITEMS = [
     "title": "Percarbonato de Sódio Removedor de Manchas com Base de Percarbonato de Sódio e Multiuso de Limpeza Eficiente, Econômico Versátil para Lavanderia Limpeza Geral (Design Embalagem pode sofrer variações)",
     "asin": "B0GLHQDVYB",
     "image": "https://m.media-amazon.com/images/I/41ze0lQ8bAL._SS135_.jpg",
-    "price": "R$ 18,00",
+    "price": "",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B0GLHQDVYB/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -102,7 +102,7 @@ const ITEMS = [
   {
     "title": "Lâmpada LED Bulbo Foxlux – 12W – 3000K – Luz Amarela – 1080 lm – Base E-27 – Bivolt – Vida média: 25.000h request change Lâmpada LED Bulbo 12W 3000K Bivolt - Luz Quente",
     "asin": "B0CTD3XXPH",
-    "image": "https://m.media-amazon.com/images/I/41p0xTjM8SL._SS135_.jpg",
+    "image": "https://m.media-amazon.com/images/I/31AriXnVLdL._SS135_.jpg",
     "price": "R$ 17,04",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CTD3XXPH/?tag=guilhermefsp-20",
@@ -121,7 +121,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Perfume Collection Místico 3L",
     "asin": "B098CL79W1",
     "image": "https://m.media-amazon.com/images/I/41aOq1ltpDL._SS135_.jpg",
-    "price": "R$ 47,90",
+    "price": "R$ 59,30",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B098CL79W1/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -436,7 +436,7 @@ const ITEMS = [
     "title": "Torneira De Esfera P/Maquina De Lavar Roupa 1/2 X 3/4",
     "asin": "B09GTTY7V8",
     "image": "https://m.media-amazon.com/images/I/312C+2fYP5L._SS135_.jpg",
-    "price": "R$ 19,10",
+    "price": "R$ 16,15",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B09GTTY7V8/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -481,7 +481,7 @@ const ITEMS = [
     "title": "Tesoura para Cerca Viva, Tramontina, com Lâmina Metálica e Cabo de Madeira",
     "asin": "B076M8NPMM",
     "image": "https://m.media-amazon.com/images/I/31pHAMAhQvL._SS135_.jpg",
-    "price": "R$ 44,16",
+    "price": "R$ 42,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B076M8NPMM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 529,90",
+    "price": "R$ 477,06",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
