@@ -22,7 +22,7 @@ const ITEMS = [
     "title": "Philco, 103301040, Multiprocessador, Pmp1600v, 1400W, Vermelho, 127v,",
     "asin": "B07V68WPC9",
     "image": "https://m.media-amazon.com/images/I/416g1Olhd5L._SS135_.jpg",
-    "price": "R$ 319,90",
+    "price": "R$ 309,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07V68WPC9/?tag=guilhermefsp-20",
     "date_added": "2026-05-07"
@@ -94,7 +94,7 @@ const ITEMS = [
     "title": "Desentupidor de Pias e Ralos Granulado 300g, Diabo Verde",
     "asin": "B07GCX2WKG",
     "image": "https://m.media-amazon.com/images/I/41dD06E6RPL._SS135_.jpg",
-    "price": "R$ 26,96",
+    "price": "R$ 26,49",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07GCX2WKG/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -166,7 +166,7 @@ const ITEMS = [
     "title": "Arak Habitue Aperitivo 700Ml",
     "asin": "B07W71P4R3",
     "image": "https://m.media-amazon.com/images/I/31cSFGIdTHS._SS135_.jpg",
-    "price": "R$ 62,27",
+    "price": "R$ 72,40",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07W71P4R3/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -175,7 +175,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 99,90",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -481,7 +481,7 @@ const ITEMS = [
     "title": "Tesoura para Cerca Viva, Tramontina, com Lâmina Metálica e Cabo de Madeira",
     "asin": "B076M8NPMM",
     "image": "https://m.media-amazon.com/images/I/31pHAMAhQvL._SS135_.jpg",
-    "price": "R$ 48,44",
+    "price": "R$ 44,16",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B076M8NPMM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
