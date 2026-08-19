@@ -4,7 +4,7 @@ const ITEMS = [
     "title": "Kit Fita De Led Dual WI-FI Inteligente NovaDigital RGB 10Metros 5m + 5m Compativel Tuya Smart Life Alexa Google Smart",
     "asin": "B0DYF71T4M",
     "image": "https://m.media-amazon.com/images/I/413fKyH6lyL._SS135_.jpg",
-    "price": "R$ 125,00",
+    "price": "R$ 128,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYF71T4M/?tag=guilhermefsp-20",
     "date_added": "2026-06-03"
@@ -13,7 +13,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente Zigbee Full Switch Sensação De Tecla Fisica Compativel com Alexa Google Home (4 Teclas)",
     "asin": "B0F4GS69NL",
     "image": "https://m.media-amazon.com/images/I/31Qx+wbhqdL._SS135_.jpg",
-    "price": "R$ 158,00",
+    "price": "R$ 165,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4GS69NL/?tag=guilhermefsp-20",
     "date_added": "2026-05-27"
@@ -40,7 +40,7 @@ const ITEMS = [
     "title": "Seagers Gin Negroni 980Ml",
     "asin": "B07XS7S64S",
     "image": "https://m.media-amazon.com/images/I/31epr-JQukL._SS135_.jpg",
-    "price": "R$ 61,00",
+    "price": "R$ 60,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XS7S64S/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -94,7 +94,7 @@ const ITEMS = [
     "title": "Desentupidor de Pias e Ralos Granulado 300g, Diabo Verde",
     "asin": "B07GCX2WKG",
     "image": "https://m.media-amazon.com/images/I/41dD06E6RPL._SS135_.jpg",
-    "price": "R$ 23,90",
+    "price": "R$ 24,48",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07GCX2WKG/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -103,7 +103,7 @@ const ITEMS = [
     "title": "Lâmpada LED Bulbo Foxlux 12W 3000K Branco Quente E27 Bivolt 1018 Lumens Econômica",
     "asin": "B0CTD3XXPH",
     "image": "https://m.media-amazon.com/images/I/31AriXnVLdL._SS135_.jpg",
-    "price": "R$ 16,90",
+    "price": "R$ 15,34",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CTD3XXPH/?tag=guilhermefsp-20",
     "date_added": "2026-04-28"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 41,50",
+    "price": "R$ 43,55",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -175,7 +175,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 139,90",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -220,7 +220,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 37,90",
+    "price": "R$ 56,91",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -238,7 +238,7 @@ const ITEMS = [
     "title": "Licor Importado Fireball 750Ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41NBOpisbeL._SS135_.jpg",
-    "price": "R$ 88,78",
+    "price": "R$ 94,33",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -265,7 +265,7 @@ const ITEMS = [
     "title": "Cabeça Refil Escova de Dente Elétrica Compátivel com Oral B - Kit com 4 unidades Branca - Cerdas Macias de Alta Perfomance Refil Kit",
     "asin": "B0GPRP7PZB",
     "image": "https://m.media-amazon.com/images/I/41qOKGwxIrL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 24,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0GPRP7PZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -283,7 +283,7 @@ const ITEMS = [
     "title": "Kit Roteador Mesh AC1900 TP-Link Deco S7(3-pack), Dual Band 2.4/5 GHz, Conecte até 100+ Dispositivos, Cobertura de até 520M2, 3 Portas Gigabit Ethernet, Funciona com Amazon Alexa, Controle dos Pais",
     "asin": "B0BBV29JXX",
     "image": "https://m.media-amazon.com/images/I/31XSDfBmcUL._SS135_.jpg",
-    "price": "R$ 899,90",
+    "price": "R$ 1.064,25",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBV29JXX/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -391,7 +391,7 @@ const ITEMS = [
     "title": "Kit 5 Lâmpadas AVANT NEO Smart LED 10W E27 Dimerizável RGB Compatível com Alexa e Google Home Controle voz Wifi Casa Inteligente Tuya",
     "asin": "B0FDLM1L2R",
     "image": "https://m.media-amazon.com/images/I/41UYKggbo6L._SS135_.jpg",
-    "price": "R$ 189,90",
+    "price": "R$ 149,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLM1L2R/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -409,7 +409,7 @@ const ITEMS = [
     "title": "Emma Colchão Queen Duo Comfort - 158x198x18 cm, Conforto de Dupla Face, Suporte ideal para o corpo, Alta Durabilidade, Capa Lavável, 100 Noites de Teste, 10 anos de garantia",
     "asin": "B08YKC39Y7",
     "image": "https://m.media-amazon.com/images/I/4160ve+jZmL._SS135_.jpg",
-    "price": "R$ 1.899,00",
+    "price": "R$ 1.749,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08YKC39Y7/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -418,7 +418,7 @@ const ITEMS = [
     "title": "Tomada De Parede Duo Com 2 Entradas Usb Bivolt Jwcom (Branco)",
     "asin": "B0B23B7ZCF",
     "image": "https://m.media-amazon.com/images/I/31zzrMcg4uL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 49,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B23B7ZCF/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -517,7 +517,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 135,14",
+    "price": "R$ 157,42",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -607,7 +607,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 1",
     "asin": "8573516534",
     "image": "https://m.media-amazon.com/images/I/41rQK83B72L._SS135_.jpg",
-    "price": "R$ 179,10",
+    "price": "R$ 199,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8573516534/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 456,00",
+    "price": "R$ 484,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -661,7 +661,7 @@ const ITEMS = [
     "title": "VOICE OF THE FIRE (English Edition)",
     "asin": "B01D1X8UQ8",
     "image": "https://m.media-amazon.com/images/I/41dmMmDYP7L._SS135_.jpg",
-    "price": "R$ 53,91",
+    "price": "R$ 52,12",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B01D1X8UQ8/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
