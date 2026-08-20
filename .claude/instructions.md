@@ -1,6 +1,6 @@
 # shop-guil — Claude Instructions
 
-**Project path:** `D:\The Brain\raw\projects\shop-guil`
+**Project path:** `D:\The Brain\projects\shop-guil`
 
 ## Shell conventions
 
@@ -12,4 +12,4 @@
 
 | Task | Command (from D:\The Brain) |
 |------|---------|
-| Run scraper | `uv run python raw/projects/shop-guil/scrape.py` | 
+| Run scraper | `uv run python projects/shop-guil/scrape.py` | 
