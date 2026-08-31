@@ -112,7 +112,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Frescor Da Primavera 500mL Rende 2L",
     "asin": "B08553P1JV",
     "image": "https://m.media-amazon.com/images/I/41YGOC4JD+L._SS135_.jpg",
-    "price": "R$ 26,90",
+    "price": "R$ 35,63",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08553P1JV/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 43,55",
+    "price": "R$ 44,12",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
     "asin": "B07ZHGT9ZT",
     "image": "https://m.media-amazon.com/images/I/3132ZHC-SHL._SS135_.jpg",
-    "price": "R$ 19,19",
+    "price": "R$ 21,59",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZHGT9ZT/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -184,7 +184,7 @@ const ITEMS = [
     "title": "Bourbon Whiskey Jim Beam White 1L",
     "asin": "B005HQNCLG",
     "image": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SS135_.jpg",
-    "price": "R$ 76,90",
+    "price": "R$ 98,89",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B005HQNCLG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -220,7 +220,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 45,56",
+    "price": "R$ 56,91",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 41,02",
+    "price": "R$ 41,10",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -256,7 +256,7 @@ const ITEMS = [
     "title": "A & D Diaper Rash Ointment 4 oz. (Pack of 2)",
     "asin": "B00DQD63NG",
     "image": "https://m.media-amazon.com/images/I/31gTT-yPeqL._SS135_.jpg",
-    "price": "R$ 218,00",
+    "price": "R$ 202,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B00DQD63NG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -283,7 +283,7 @@ const ITEMS = [
     "title": "Kit Roteador Mesh AC1900 TP-Link Deco S7(3-pack), Dual Band 2.4/5 GHz, Conecte até 100+ Dispositivos, Cobertura de até 520M2, 3 Portas Gigabit Ethernet, Funciona com Amazon Alexa, Controle dos Pais",
     "asin": "B0BBV29JXX",
     "image": "https://m.media-amazon.com/images/I/31XSDfBmcUL._SS135_.jpg",
-    "price": "R$ 1.064,25",
+    "price": "R$ 839,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBV29JXX/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -355,7 +355,7 @@ const ITEMS = [
     "title": "Refletor LED Inteligente 50W Elgin RGB Smart Wifi compatível com Alexa e Google Home",
     "asin": "B09QCW73S5",
     "image": "https://m.media-amazon.com/images/I/31jcAaNKOqL._SS135_.jpg",
-    "price": "R$ 189,99",
+    "price": "R$ 279,22",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B09QCW73S5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -382,7 +382,7 @@ const ITEMS = [
     "title": "Painel de Embutir Quadrado Smart Elgin 18W Compatível com Alexa e Google Home Bivolt",
     "asin": "B08TQGGTCC",
     "image": "https://m.media-amazon.com/images/I/31DeXLj-wuL._SS135_.jpg",
-    "price": "R$ 79,99",
+    "price": "R$ 85,40",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B08TQGGTCC/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -391,7 +391,7 @@ const ITEMS = [
     "title": "Kit 5 Lâmpadas AVANT NEO Smart LED 10W E27 Dimerizável RGB Compatível com Alexa e Google Home Controle voz Wifi Casa Inteligente Tuya",
     "asin": "B0FDLM1L2R",
     "image": "https://m.media-amazon.com/images/I/41UYKggbo6L._SS135_.jpg",
-    "price": "R$ 149,90",
+    "price": "R$ 189,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLM1L2R/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -454,7 +454,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 158,30",
+    "price": "R$ 139,82",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Tramontina Foicinha Para Pasto, Cabo De Madeira 13 Cm",
     "asin": "B001P5N12S",
     "image": "https://m.media-amazon.com/images/I/21Kcb2kd6HL._SS135_.jpg",
-    "price": "R$ 42,32",
+    "price": "R$ 46,29",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B001P5N12S/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
